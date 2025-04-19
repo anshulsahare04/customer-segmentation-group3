@@ -12,6 +12,9 @@ from sklearn.cluster import KMeans, AgglomerativeClustering, DBSCAN
 from sklearn.mixture import GaussianMixture
 from sklearn.decomposition import PCA
 import scipy.cluster.hierarchy as sch
+
+!pip install graphviz
+!apt-get install -y graphviz
 import graphviz
 import io
 import base64
