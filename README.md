@@ -1,4 +1,4 @@
-# customer-segmentation-group3
+# Customer-Segmentation-Group(3)
 # 🚀 Customer Segmentation & Prediction Dashboard 🎯
 
 [👉 Click here to see the live dashboard](https://customer-segmentation-group3-boaqnnv9mxpapepbejaqsk.streamlit.app/)
